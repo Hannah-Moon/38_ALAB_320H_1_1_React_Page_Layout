@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-function searchbar() {
+function Searchbar() {
   return (
     <div className='searchbar'>
-      <input className='searchinput' type='text' ></input>
+      <input className='searchinput' type='text' placeholder='Please enter name or phone number to search. 🔎'></input>
     </div>
-  )
+  );
 }
 
-export default searchbar
+export default Searchbar;

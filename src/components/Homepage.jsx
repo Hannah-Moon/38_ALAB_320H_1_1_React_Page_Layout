@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from "./Header";
-import SearchBar from "./searchbar";
+import Header from './Header';
+import SearchBar from './searchbar';
 import EmployeeList from './EmployeeList'
 
 function Homepage({title, workers}) {

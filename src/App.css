@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   border: solid black;
-  height: 500vh;
+  height: 80vh;
   margin: 2em;
   display: flex;
 }
@@ -15,22 +15,26 @@
   width: 50%;
   margin: 3px;
 }
+
 .header{
   border: solid rgb(50, 181, 243);
   margin: 3px;
   padding: 15px;
 }
+
 .searchbar{
   border: solid green;
   margin: 3px;
+  padding: 2px;
 }
 .searchinput{
-  border: 1px solid #e8e5e5;
+  border: 1px solid #9d9d9d;
   width: 85%;
   border-radius: 15px;
   margin: 5px 10px;
   padding: 10px 20px;
 }
+
 .employeeList{
   border: solid purple;
   margin: 3px;
@@ -45,22 +49,24 @@
 }
 
 .img_Emp img{
-  height: 70px;
+  height: 65px;
 }
 .name_Emp{
 text-align: left;
 padding-left: 30px;
 }
 .name_Emp h1{
-  font-size: 20px;
+  font-size: 15px;
   margin: 0;
-  padding-top: 15px;
+  padding-top: 10px;
 }
 .name_Emp h5, .emp_infos h6{
-  font-size: 15px;
-  color: gray;
+  font-size: 12px;
+  color:#9d9d9d;
   margin: 0;
-  padding-top: 3px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+
 }
 .emp_Infos{
   border: 1px solid #eee;
@@ -87,7 +93,9 @@ padding-left: 30px;
   text-align: left;
 }
 .btn_info img{
-  height: 30px;
+  height: 50px;
+  display: flex;
+  
 }
 
 

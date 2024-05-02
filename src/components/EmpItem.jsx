@@ -20,6 +20,10 @@ function EmpItem({ info }) {
         <h5>{position}</h5>
       </div>
     </div>
+    
+
+
+
   );
 }
 

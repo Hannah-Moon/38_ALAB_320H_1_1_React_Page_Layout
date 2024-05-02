@@ -11,10 +11,13 @@
 npx create-react-app eml-list
 ```
 
-## Boiler plate commend for an each component  
-<img alt="image" src="rafc.png"></div>
+<img alt='screen capture' src="./assets/app.png"></div>
 
-### More to study 
-> - https://youtu.be/SqcY0GlETPk?si=02QQ6p5AZJW9T-m8
-> - https://youtu.be/TPACABQTHvM?si=FjDmIl0d49itQ68F
-> - ReAct Developer Tool: https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US&utm_source=ext_sidebar
+## Boiler plate commend for an each component  
+<img alt="image" src="./assets/rafc.png"></div>
+
+### Study Materials
+> - [React Tutorial for Beginners](https://youtu.be/SqcY0GlETPk?si=02QQ6p5AZJW9T-m8)
+> - [React Crash Course 2024 by Traversy Media](https://www.youtube.com/watch?v=LDB4uaJ87e0&t=225s)
+> - [ReAct Developer](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US&utm_source=ext_sidebar)
+

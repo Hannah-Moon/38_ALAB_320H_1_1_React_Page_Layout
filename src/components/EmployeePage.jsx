@@ -5,9 +5,10 @@ import EmpInfo from './Empinfo'; // Use the correct casing in the import stateme
 
 import { allEmployees } from '../App'; // Make sure this import is correct
 
-function EmployeePage() {
+function EmployeePage({title}) {
   return (
     <div className='emp_page'>
+        <Header topic={title} />
       <div className='emp_Infos'>
         <EmpItem info={allEmployees[0]} />
         <EmpInfo />
@@ -15,5 +16,4 @@ function EmployeePage() {
     </div>
   );
 }
-
 export default EmployeePage;
