@@ -11,6 +11,9 @@
 npx create-react-app eml-list
 ```
 
+## Boiler plate commend for an each component  
+<img alt="image" src="rafc.png"></div>
+
 ### More to study 
 > - https://youtu.be/SqcY0GlETPk?si=02QQ6p5AZJW9T-m8
 > - https://youtu.be/TPACABQTHvM?si=FjDmIl0d49itQ68F
